@@ -1,6 +1,6 @@
 package service
 
-//import "gitlab.com/pragmaticreviews/golang-gin-poc/entity"
+import "https://github.com/NatSau02/test_golang_2/tree/main/entity"
 
 type VideoService interface {
 	Save(entity.Video) entity.Video

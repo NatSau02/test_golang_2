@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	//"gitlab.com/pragmaticreviews/golang-gin-poc/controller"
-	//"gitlab.com/pragmaticreviews/golang-gin-poc/service"
+	"https://github.com/NatSau02/test_golang_2/tree/main/controller"
+	"https://github.com/NatSau02/test_golang_2/tree/main/service"
 )
 
 var (
